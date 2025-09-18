@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 261feaf6092aa494a9cf11b28e67fc1f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8860139770382884566
+    second: TelaInicial_0
+  - first:
+      213: -5246163101134595410
+    second: TelaInicial_1
+  - first:
+      213: 8961246104716569929
+    second: TelaInicial_2
+  - first:
+      213: 4394062409465861159
+    second: TelaInicial_3
+  - first:
+      213: -6093696187506564874
+    second: TelaInicial_4
+  - first:
+      213: 559018551983625941
+    second: TelaInicial_5
+  - first:
+      213: -610043856634919769
+    second: TelaInicial_6
+  - first:
+      213: -7096929859700808147
+    second: TelaInicial_7
+  - first:
+      213: -8750518925047328066
+    second: TelaInicial_8
+  - first:
+      213: -5185005811744421019
+    second: TelaInicial_9
+  - first:
+      213: -8745372333371202974
+    second: TelaInicial_10
+  - first:
+      213: 4313039539900616250
+    second: TelaInicial_11
+  - first:
+      213: 4843090607029274016
+    second: TelaInicial_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TelaInicial_0
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 5710
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de9bf99d2a85fa70800000000000000
+      internalID: 8860139770382884566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelaInicial_1
+      rect:
+        serializedVersion: 2
+        x: 3177
+        y: 3737
+        width: 635
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa5c137472e137b0800000000000000
+      internalID: -5246163101134595410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelaInicial_2
+      rect:
+        serializedVersion: 2
+        x: 3901
+        y: 3707
+        width: 633
+        height: 766
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94deb708addbc5c70800000000000000
+      internalID: 8961246104716569929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelaInicial_3
+      rect:
+        serializedVersion: 2
+        x: 4572
+        y: 3743
+        width: 613
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7241c1d0b78dafc30800000000000000
+      internalID: 4394062409465861159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelaInicial_4
+      rect:
+        serializedVersion: 2
+        x: 5289
+        y: 3747
+        width: 510
+        height: 727
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0e48e6a97de6ba0800000000000000
+      internalID: -6093696187506564874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelaInicial_5
+      rect:
+        serializedVersion: 2
+        x: 5887
+        y: 3780
+        width: 566
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d656d5496802c700800000000000000
+      internalID: 559018551983625941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelaInicial_6
+      rect:
+        serializedVersion: 2
+        x: 6465
+        y: 3736
+        width: 613
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4cdd33850b887f0800000000000000
+      internalID: -610043856634919769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelaInicial_7
+      rect:
+        serializedVersion: 2
+        x: 7156
+        y: 3742
+        width: 510
+        height: 727
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26abacc4e3a28d90800000000000000
+      internalID: -7096929859700808147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelaInicial_8
+      rect:
+        serializedVersion: 2
+        x: 7749
+        y: 3746
+        width: 537
+        height: 727
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb298306669ef8680800000000000000
+      internalID: -8750518925047328066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelaInicial_9
+      rect:
+        serializedVersion: 2
+        x: 3732
+        y: 2347
+        width: 1861
+        height: 1352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b43a08fa82b08b0800000000000000
+      internalID: -5185005811744421019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelaInicial_10
+      rect:
+        serializedVersion: 2
+        x: 4459
+        y: 2336
+        width: 538
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26261e0a23232a680800000000000000
+      internalID: -8745372333371202974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelaInicial_11
+      rect:
+        serializedVersion: 2
+        x: 5046
+        y: 2345
+        width: 613
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e8dfd2c9efadb30800000000000000
+      internalID: 4313039539900616250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelaInicial_12
+      rect:
+        serializedVersion: 2
+        x: 5656
+        y: 2351
+        width: 2001
+        height: 1324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5c20f4f3d163340800000000000000
+      internalID: 4843090607029274016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TelaInicial_0: 8860139770382884566
+      TelaInicial_1: -5246163101134595410
+      TelaInicial_10: -8745372333371202974
+      TelaInicial_11: 4313039539900616250
+      TelaInicial_12: 4843090607029274016
+      TelaInicial_2: 8961246104716569929
+      TelaInicial_3: 4394062409465861159
+      TelaInicial_4: -6093696187506564874
+      TelaInicial_5: 559018551983625941
+      TelaInicial_6: -610043856634919769
+      TelaInicial_7: -7096929859700808147
+      TelaInicial_8: -8750518925047328066
+      TelaInicial_9: -5185005811744421019
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
